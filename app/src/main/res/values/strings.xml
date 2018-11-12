@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Minor_Paper_question</string>
+    <string-array name="states">
+        <item>stateA</item>
+        <item>stateB</item>
+        <item>stateC</item>
+    </string-array>
+</resources>
